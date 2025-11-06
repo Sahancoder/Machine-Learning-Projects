@@ -1,0 +1,17 @@
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+matplotlib>=3.8
+pyyaml>=6.0
+joblib>=1.3
+
+# Optional extras (auto-skipped if not installed by task engines)
+xgboost>=2.0
+networkx>=3.2
+ortools>=9.10
+statsmodels>=0.14
+prophet>=1.1
+lifelines>=0.27
+surprise>=0.1.5
+nltk>=3.8
